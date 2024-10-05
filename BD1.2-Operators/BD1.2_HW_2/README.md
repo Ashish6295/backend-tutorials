@@ -1,16 +1,13 @@
-1: Send a custom commit message
+1: Body Mass Index (BMI) Calculator
 
-2: Generate certificate for students
+2: Calculate grocery checkout price
 
-3: Configure a custom out-of-office message
+3: Calculate grade percentage
 
-4: Send a secure URL
+4: Return bill amount after applying discount
 
-5: Send a verification OTP
+5: Split bill among friends
 
-6 : Send a welcome mail to new user
+6 : Convert Celsius to Fahrenheit
 
-7: Generate Github profile URL
-
-8: Convert text into CSV row format
-
+7: Calculate monthly salary
