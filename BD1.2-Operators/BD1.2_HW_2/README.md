@@ -8,6 +8,6 @@
 
 5: Split bill among friends
 
-6 : Convert Celsius to Fahrenheit
+6: Convert Celsius to Fahrenheit
 
 7: Calculate monthly salary
