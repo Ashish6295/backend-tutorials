@@ -1,9 +1,3 @@
-# backend-tutorials
-my repository to practice backend development
+# Backend Programming Self-Help Guide
 
-## Section 1:
-Excercises on:
- - Strings
- - Operators
- - Conditionals
- - Functions
+Welcome to the Backend Programming Self-Help Guide! This repository contains a set of practical exercises designed to help you learn and understand fundamental backend development concepts using Node.js and Express.js. Each exercise in this repo represents a common task or problem you might encounter while building backend applications. (This is a devceloping repo and will be updated as when I get some time)
